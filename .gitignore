@@ -1,0 +1,8 @@
+*.log
+*.tmp
+dist/*
+build/*
+.cursorignore
+vendor
+tabload
+prompt.md
