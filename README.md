@@ -2,7 +2,7 @@
 
 # TabLoad
 
-TabLoad is a GUI application for interacting with TabbyAPI, providing an easy-to-use interface for managing and using large language models.
+TabLoad is a GUI application for interacting with [TabbyAPI](https://github.com/theroyallab/tabbyAPI) the [Exllamav2](https://github.com/turboderp/exllamav2) Server, providing an easy-to-use interface for managing and using large language models.
 
 ## Disclaimer
 
